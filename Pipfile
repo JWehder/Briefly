@@ -19,6 +19,7 @@ python-dotenv = "*"
 google-generativeai = "*"
 oauth = "*"
 authlib = "*"
+customtkinter = "*"
 
 [dev-packages]
 
